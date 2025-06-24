@@ -1,4 +1,4 @@
-📊 Data Pipeline Development: Iris Dataset (Colab)
+📊 Data Pipeline Development
 
 🔍 Overview
 
